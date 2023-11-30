@@ -1,0 +1,13 @@
+= Advent of Code 2023
+Benno Bielmeier <benno.bielmeir@oth-regensburg.de>
+
+Programs solving the https://adventofcode.com/2023[Advent of Code 2023] puzzles, purelyfootnote:[dependency-free] written in the genteel programming language Ruby.
+
+Each of the daily puzzles has its separate folder that holds the puzzle's description as `README.txt`, `input` and solving program `main.rb`.
+The `main2.rb` programs solve the puzzle's extension task ("`part 2`").
+
+== ⚖️ Legal Notices
+
+Code is licensed under European Union Public License 1.2 (EUPL-1.2).
+
+Puzzle texts are written by http://was.tl/[Eric Wast] and published on https://adventofcode.com/2023[Advent of Code]. All rights belong to the author.

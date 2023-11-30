@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: AoC2023.rb
+Upstream-Contact: Benno Bielmeier <benno.bielmeier@oth-regensburg.de>
+Source: https://github.com/bbenno/AoC2023.rb
+
+Files: *
+Copyright: 2023 Benno Bielmeier
+License: EUPL-1.2
+
+Files: README.*
+Copyright: 2023 Benno Bielmeier
+License: CC-BY-SA-4.0
+
+Files: */README.txt */inputs
+Copyright: 2023 Eric Wastl
+License: NOASSERTION
