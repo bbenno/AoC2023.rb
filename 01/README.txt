@@ -43,3 +43,5 @@ In this example, the calibration values of these four lines are 12, 38,
 
 Consider your entire calibration document. What is the sum of all of the
 calibration values?
+
+Your puzzle answer was 54573.
