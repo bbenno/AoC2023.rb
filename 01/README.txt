@@ -65,3 +65,7 @@ and last digit on each line. For example:
 
 In this example, the calibration values are 29, 83, 13, 24, 42, 14, and
 76. Adding these together produces 281.
+
+What is the sum of all of the calibration values?
+
+Your puzzle answer was 54591.
